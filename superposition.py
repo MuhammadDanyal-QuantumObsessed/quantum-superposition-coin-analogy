@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 superposition.py
-=================
 
 The Superposition and Coin Analogy: Phase and Interference on Real
 Quantum Hardware.
@@ -28,8 +27,6 @@ Usage:
     export QISKIT_IBM_TOKEN="your_ibm_quantum_api_token"
     python superposition.py --shots 1000 --output-dir results
 
-Author:
-    Muhammad Danyal
 """
 
 from __future__ import annotations
