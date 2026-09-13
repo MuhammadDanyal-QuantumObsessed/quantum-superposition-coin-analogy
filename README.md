@@ -21,7 +21,6 @@ A quantum computing project that builds physical intuition for **superposition, 
 13. [Limitations](#limitations)
 14. [Tech Stack](#tech-stack)
 15. [How to Run](#how-to-run)
-16. [Author](#author)
 
 ---
 
